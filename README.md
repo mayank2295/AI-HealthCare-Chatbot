@@ -17,7 +17,7 @@ To run this project locally, follow the steps below:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/shauryaverma03/healthcare-chatbot.git
+   git clone https://github.com/mayank2295/AI-HealthCare-Chatbot
    cd healthcare-chatbot
    ```
 
@@ -34,7 +34,7 @@ To run this project locally, follow the steps below:
 
 Contributions are welcome! If you'd like to add new features or report bugs, feel free to create an issue or submit a pull request.
 
-Shaurya Verma
+Mayank Gupta 
 
 ### Steps to contribute:
 1. Fork the repository.
@@ -43,7 +43,7 @@ Shaurya Verma
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to reach out to [Shaurya Verma](https://github.com/shauryaverma03).
+If you have any questions or need further assistance, feel free to reach out to [Mayank gupta](https://github.com/mayank2295).
 
 ## License
 
@@ -52,5 +52,3 @@ This repository does not currently specify a license. Please confirm with the re
 ---
 
 Thank you for checking out the Healthcare Chatbot! We hope it proves helpful in addressing healthcare-related queries.
-
-Shaurya Verma
